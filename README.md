@@ -1,4 +1,4 @@
-# twitterbots
+# How to Write Twitter Bots
 A twitterbot workshop using Tracery and CheapBotsDoneQuick
 
 ### Overview
