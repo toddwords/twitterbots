@@ -26,6 +26,7 @@ A twitterbot workshop using Tracery and CheapBotsDoneQuick
 It's basically a big list of lists and templates you use to generate text in a Mad Libs-style, where certain parts of a sentence are selected at random from a larger group.
 
 - [Online Tracery Editor](https://beaugunderson.com/tracery-writer/)
+- [Corpora](https://github.com/dariusk/corpora/tree/master/data) big lists of stuff!
 - Lets looks at some of the JSON files included in this repo and plug them in!
 
 Time to try making our own. Break into groups and come up with an idea for your generator. Good bots have a simple narrow theme that is then expanded on to have a lot of possibility. 
