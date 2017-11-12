@@ -46,3 +46,8 @@ Time to try making our own. Break into groups and come up with an idea for your 
 - Set how often you want to tweet
 - Go back into the twitter account and make a nice profile and banner image and description (let people know it's a bot)
 - Done!
+
+### Going Further
+Tracery can be used in any javascript project, including with p5, to make generative websites and games. Check out [Interruption Junction](http://squinky.me/interruption/) as something a little different using Tracery.
+
+You can make more advanced Twitter bots that do things like markov text generation, uploading images, replying, and showing p5/processing images by programming them yourself in Node or Python. Dan Shiffman's The Coding Train has a great set of videos on making a [Twitter bot in Node.js](https://www.youtube.com/watch?v=RF5_MPSNAtU)
