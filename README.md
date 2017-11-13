@@ -10,16 +10,16 @@ A twitterbot workshop using Tracery and CheapBotsDoneQuick
 
 
 ### Let's look at some twitter bots
-[@TwoHeadlines](https://twitter.com/TwoHeadlines) by Darius Kazemi
-[@FellasBot](https://twitter.com/FellasBot) by Darius Kazemi
-[@the_ephemerides](https://twitter.com/the_ephemerides) by Allison Parrish
-[@thinkpiecebot](https://twitter.com/thinkpiecebot) by Nora Reed
-[@thielspotting](https://twitter.com/thielspotting) by Todd Anderson
-[@autoflaneur](https://twitter.com/autoflaneur)
-[@MagicRealismBot](https://twitter.com/magicrealismbot) by Chris Rodley
-[@bot_teleport](https://twitter.com/bot_teleport)
-[@softlandscapes](https://twitter.com/softlandscapes) by George Buckenham
-[@thetinygallery](https://twitter.com/thetinygallery)
+- [@TwoHeadlines](https://twitter.com/TwoHeadlines) by Darius Kazemi
+- [@FellasBot](https://twitter.com/FellasBot) by Darius Kazemi
+- [@the_ephemerides](https://twitter.com/the_ephemerides) by Allison Parrish
+- [@thinkpiecebot](https://twitter.com/thinkpiecebot) by Nora Reed
+- [@thielspotting](https://twitter.com/thielspotting) by Todd Anderson
+- [@autoflaneur](https://twitter.com/autoflaneur)
+- [@MagicRealismBot](https://twitter.com/magicrealismbot) by Chris Rodley
+- [@bot_teleport](https://twitter.com/bot_teleport)
+- [@softlandscapes](https://twitter.com/softlandscapes) by George Buckenham
+- [@thetinygallery](https://twitter.com/thetinygallery)
 
 ### Tracery
 [Tracery](http://tracery.io) is a text generation library created by [Kate Compton](http://www.galaxykate.com/).
