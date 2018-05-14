@@ -14,12 +14,14 @@ A twitterbot workshop using Tracery and CheapBotsDoneQuick
 - [@FellasBot](https://twitter.com/FellasBot) by Darius Kazemi
 - [@the_ephemerides](https://twitter.com/the_ephemerides) by Allison Parrish
 - [@thinkpiecebot](https://twitter.com/thinkpiecebot) by Nora Reed
+- [@wigglebunch](https://twitter.com/@wigglebunch) by Nora Reed
 - [@thielspotting](https://twitter.com/thielspotting) by Todd Anderson
 - [@autoflaneur](https://twitter.com/autoflaneur)
 - [@MagicRealismBot](https://twitter.com/magicrealismbot) by Chris Rodley
 - [@bot_teleport](https://twitter.com/bot_teleport)
 - [@softlandscapes](https://twitter.com/softlandscapes) by George Buckenham
 - [@thetinygallery](https://twitter.com/thetinygallery)
+
 
 ### Tracery
 [Tracery](http://tracery.io) is a text generation library created by [Kate Compton](http://www.galaxykate.com/).
@@ -40,13 +42,17 @@ Time to try making our own. Break into groups and come up with an idea for your 
 
 [Cheap Bots Done Quick](https://cheapbotsdonequick.com/) is a fantastic twitterbot hosting platform by [George Buckenham](https://v21.io/) that lets you turn any Tracery generator into a Twitter bot. Here's all you need to do:
 
-- Create a new twitter account
+- Create a new [Twitter account](https://twitter.com/). Putting in a phone number will keep your account from getting shut down.
 - Log in to [Cheap Bots Done Quick](https://cheapbotsdonequick.com/) with your new twitter account
 - Paste in the grammar from your tracery generator
 - Test to make sure it works
 - Set how often you want to tweet
 - Go back into the twitter account and make a nice profile and banner image and description (let people know it's a bot)
 - Done!
+
+### Some Ethical Guidelines
+
+To quote Leonard Richardson and an axiom of the botmaking community, ["Bots should punch up"](https://www.crummy.com/2013/11/27/0). If you're bot makes jokes at someone's expense, make sure they're higher status than you, aka it's cool to make bots that make fun of corporations, politicians and celebrities, but its not cool to make bots that bully and harass regular people, especially groups of people that put up with a lot of that harassment already.
 
 ### Going Further
 Tracery can be used in any javascript project, including with p5, to make generative websites and games. Visit the [github repo](https://github.com/galaxykate/tracery/tree/tracery2) for more on how to use it. Check out [Interruption Junction](http://squinky.me/interruption/) as something a little different using Tracery.
