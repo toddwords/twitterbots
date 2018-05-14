@@ -12,16 +12,18 @@ A twitterbot workshop using Tracery and CheapBotsDoneQuick
 ### Let's look at some twitter bots
 - [@TwoHeadlines](https://twitter.com/TwoHeadlines) by Darius Kazemi
 - [@FellasBot](https://twitter.com/FellasBot) by Darius Kazemi
+- [@RapNameBot](https://twitter.com/RapNameBot)
 - [@the_ephemerides](https://twitter.com/the_ephemerides) by Allison Parrish
 - [@thinkpiecebot](https://twitter.com/thinkpiecebot) by Nora Reed
 - [@wigglebunch](https://twitter.com/@wigglebunch) by Nora Reed
+- [@you_have_died](https://twitter.com/@you_have_died) by Nora Reed
 - [@thielspotting](https://twitter.com/thielspotting) by Todd Anderson
 - [@autoflaneur](https://twitter.com/autoflaneur)
 - [@MagicRealismBot](https://twitter.com/magicrealismbot) by Chris Rodley
 - [@bot_teleport](https://twitter.com/bot_teleport)
 - [@softlandscapes](https://twitter.com/softlandscapes) by George Buckenham
 - [@thetinygallery](https://twitter.com/thetinygallery)
-
+- [@Pentametron](https://twitter.com/pentametron)
 
 ### Tracery
 [Tracery](http://tracery.io) is a text generation library created by [Kate Compton](http://www.galaxykate.com/).
