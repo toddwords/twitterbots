@@ -57,6 +57,8 @@ Time to try making our own. Break into groups and come up with an idea for your 
 To quote Leonard Richardson and an axiom of the botmaking community, ["Bots should punch up"](https://www.crummy.com/2013/11/27/0). If you're bot makes jokes at someone's expense, make sure they're higher status than you, aka it's cool to make bots that make fun of corporations, politicians and celebrities, but its not cool to make bots that bully and harass regular people, especially groups of people that put up with a lot of that harassment already.
 
 ### Going Further
-Tracery can be used in any javascript project, including with p5, to make generative websites and games. Visit the [github repo](https://github.com/galaxykate/tracery/tree/tracery2) for more on how to use it. Check out [Interruption Junction](http://squinky.me/interruption/) as something a little different using Tracery.
+Tracery can be used in any javascript project, including with p5, to make generative websites and games. Visit the [github repo](https://github.com/galaxykate/tracery/tree/tracery2) for more on how to use it. Check out [Interruption Junction](https://games.squinky.me/interruption/) as something a little different using Tracery.
 
 You can make more advanced Twitter bots that do things like markov text generation, uploading images, replying, and showing p5/processing images by programming them yourself in Node or Python. Dan Shiffman's The Coding Train has a great set of videos on making a [Twitter bot in Node.js](https://www.youtube.com/watch?v=RF5_MPSNAtU)
+
+You can also use Tracery directly as part of a website, to make fun generative web content like this [startup website generator](https://tiffzhang.com/startup).
