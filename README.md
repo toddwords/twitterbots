@@ -14,9 +14,7 @@ A twitterbot workshop using Tracery and CheapBotsDoneQuick
 - [@FellasBot](https://twitter.com/FellasBot) by Darius Kazemi
 - [@RapNameBot](https://twitter.com/RapNameBot)
 - [@the_ephemerides](https://twitter.com/the_ephemerides) by Allison Parrish
-- [@thinkpiecebot](https://twitter.com/thinkpiecebot) by Nora Reed
 - [@wigglebunch](https://twitter.com/@wigglebunch) by Nora Reed
-- [@you_have_died](https://twitter.com/@you_have_died) by Nora Reed
 - [@thielspotting](https://twitter.com/thielspotting) by Todd Anderson
 - [@autoflaneur](https://twitter.com/autoflaneur)
 - [@MagicRealismBot](https://twitter.com/magicrealismbot) by Chris Rodley
